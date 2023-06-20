@@ -18,7 +18,10 @@
     
   },
   {
-    
+       "id": 6,
+       "firstName": "Kamvelihle",
+       "lastName": "Sikalana",
+       "age": 79
   },
   {
     
@@ -28,5 +31,5 @@
   },
   {
     
-  }+
+  }
 ]}
