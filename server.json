@@ -10,6 +10,7 @@
     "firstName" : "Thabang",
     "lastName" : "Kganana",
     "age" : 24
+    
   },
   {
     
@@ -19,7 +20,8 @@
     "id": 4,
     "firstName": "Uthmaan",
     "lastName": "Samsodien",
-    "age": 21},
+    "age": 21
+},
   {
     "id": 5,
        "firstName": "Imtiyaaz",
