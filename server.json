@@ -29,13 +29,16 @@
        "age": 20
   },
   {
-       "id": 6,
-       "firstName": "Kamvelihle",
-       "lastName": "Sikalana",
-       "age": 79
+    "id": 6,
+    "firstName": "Kamvelihle",
+    "lastName": "Sikalana",
+    "age": 79
   },
   {
-    
+      "id": 7,
+      "firstName": "Taffy",
+      "lastName": "Petersen",
+      "age": 18 
   },
   {
       "id": 8 ,                                                                                                              ,
