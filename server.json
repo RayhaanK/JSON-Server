@@ -1,9 +1,9 @@
 {"people" : [
     {
-      "id": 8                                                                                                               ,
-       "firstName": "Rabia",
-       "lastName": "Haucha",
-       "age": 20
+      "id": 1,                                                                                                               ,
+       "firstName": "Rayhaan",
+       "lastName": "Khan",
+       "age": 19
   },
   {
     
@@ -30,12 +30,15 @@
     
   },
   {
-    "id": 9,
+      "id": 8 ,                                                                                                              ,
+       "firstName": "Rabia",
+       "lastName": "Haucha",
+       "age": 20
+  },
+  {
+      "id": 9,
        "firstName": "Lithini",
        "lastName": "Skhikhi",
        "age": 19
-  },
-  {
-    
   }
 ]}
