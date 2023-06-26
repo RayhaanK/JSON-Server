@@ -1,6 +1,6 @@
 {"people" : [
     {
-      "id": 1,                                                                                                               ,
+      "id": 1,                                                                                                               
        "firstName": "Rayhaan",
        "lastName": "Khan",
        "age": 19
@@ -44,7 +44,7 @@
       "age": 18 
   },
   {
-      "id": 8 ,                                                                                                              ,
+      "id": 8 ,                                                                                                              
        "firstName": "Rabia",
        "lastName": "Haucha",
        "age": 20
